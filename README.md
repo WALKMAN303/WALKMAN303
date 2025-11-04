@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey there, I'm Arjun K R  
 
-<!--
-**WALKMAN303/WALKMAN303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Machine Learning | IoT | Deep Learning Enthusiast**  
+🔍 Currently learning how to make machines a little smarter every day.  
+🧩 Debugging code, projects, and sometimes life itself.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🎯 Passionate about **AI-driven automation and IoT systems**  
+- 📚 Currently exploring **Machine Learning models** and hands-on data projects  
+- 🤖 Fascinated by how code can make hardware *think*  
+- 🌱 Always learning, always building  
+
+---
+
+### 🛠️ Tech Stack  
+**Languages:** Python, SQL  
+**Tools & Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib    
+
+---
+
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arjun%20K%20R-blue?logo=linkedin)](https://www.linkedin.com/in/arjun-k-r-)   
+  
+---
