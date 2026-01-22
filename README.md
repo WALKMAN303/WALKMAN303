@@ -41,9 +41,8 @@ If you need a custom ML model, a Python automation script, or help debugging you
 
 ---
 
-### 🌐 Connect & Hire
-Let's build something amazing together.
-
-**LinkedIn:** [Connect with me](https://www.linkedin.com/in/arjun-k-r-)  
-**Email:** [arjunsreechakram@gmail.com](mailto:arjunsreechakram@gmail.com)  
-**Telegram:** [@walkman303](https://t.me/walkman303)
+### 🌐 Connect & Hire  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-k-r-)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunsreechakram@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/walkman303)
+  
