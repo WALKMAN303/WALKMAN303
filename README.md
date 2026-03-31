@@ -10,7 +10,6 @@ I am also an active advocate for **Open Source** software, believing that transp
 ### 🚀 What I Do
 - 🧠 **Machine Learning:** Building predictive models and classification systems.
 - 👁️ **Deep Learning:** Neural Networks, Computer Vision, and Pattern Recognition.
-- 📡 **IoT Integration:** Connecting hardware with intelligent software solutions.
 - 🤝 **Open Source:** Actively contributing to and maintaining clean, public codebases.
 
 ---
