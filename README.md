@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=780&height=90&lines=Arjun+K+R;AI+%26+LLMOps+Engineer+%7C+LLM+%26+Agent+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=780&height=90&lines=I'm+Arjun+K+R;AI+%26+LLMOps+Engineer+%7C+LLM+%26+Agent+Specialist" alt="Typing SVG" />
 
 **Building intelligent systems with Machine Learning, LLMs & AI Agents**  
 *Bridging raw data to autonomous intelligent solutions through open-source innovation*
