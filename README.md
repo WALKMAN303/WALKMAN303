@@ -1,32 +1,33 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi+%F0%9F%91%8B+I'm+Arjun+K+R;ML+%26+AI+Developer+%7C+LLM+%26+Agent+Specialist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=780&height=90&lines=Arjun+K+R;AI+%26+LLMOps+Engineer+%7C+LLM+%26+Agent+Specialist" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="380" alt="AI Neural Network Animation"/>
-
-<br/>
-
-**🤖 Building intelligent systems with Machine Learning, LLMs & AI Agents**  
+**Building intelligent systems with Machine Learning, LLMs & AI Agents**  
 *Bridging raw data to autonomous intelligent solutions through open-source innovation*
 
 </div>
 
 ---
 
-## 🧠 What I Build
+## What I Build
 
-| Domain | Focus |
-|---|---|
-| 🤖 **AI Agents & Autonomous Systems** | Multi-agent architectures, LangGraph workflows, RAG pipelines |
-| 🔗 **LLM Integration** | Prompt engineering, fine-tuning, semantic search, chatbots |
-| 🧠 **ML & Predictive Analytics** | Feature engineering, classification, recommendation engines |
-| 🚀 **API & Backend** | FastAPI, scalable ML-serving architectures |
+<table>
+  <thead>
+    <tr>
+      <th>Domain</th>
+      <th>Focus</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td nowrap><b>AI Agents &amp; Autonomous Systems</b></td><td nowrap>Multi-agent architectures, LangGraph workflows, RAG pipelines</td></tr>
+    <tr><td nowrap><b>LLM Integration</b></td><td nowrap>Prompt engineering, fine-tuning, semantic search, chatbots</td></tr>
+    <tr><td nowrap><b>ML &amp; Predictive Analytics</b></td><td nowrap>Feature engineering, classification, recommendation engines</td></tr>
+    <tr><td nowrap><b>API &amp; Backend</b></td><td nowrap>FastAPI, scalable ML-serving architectures</td></tr>
+  </tbody>
+</table>
 
----
 
-## 🎯 AI Agents & LLM Stack
+## AI Agents & LLM Stack
 
 ### Agent Frameworks
 <p>
@@ -55,9 +56,8 @@
   <img src="https://img.shields.io/badge/FAISS-00D9FF?style=for-the-badge&logo=meta&logoColor=white" height="35" />
 </p>
 
----
 
-## 🛠️ Core Tech Stack
+## Core Tech Stack
 
 ### Languages
 <p>
@@ -68,11 +68,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="35" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="45" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge" height="45" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="35" />
 </p>
 
 ### Data Science & Visualization
@@ -90,7 +90,7 @@
 
 ### Dev, Deploy & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,fastapi,linux,vscode,kubernetes,helm" />
 </p>
 
 ### Databases & Cloud
@@ -98,9 +98,9 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,aws" />
 </p>
 
----
 
-## 📊 GitHub Stats
+
+## GitHub Stats
 
 <div align="center">
 
@@ -108,23 +108,31 @@
 
 </div>
 
----
 
-## 🌍 Open Source Contributions
+
+## Open Source Contributions
 
 I'm passionate about open-source and believe community-driven code accelerates AI innovation.
 
-| Area | Details |
-|---|---|
-| 🤖 **AI & LLM Tooling** | Building and sharing reusable agent frameworks, RAG pipelines, and prompt utilities |
-| 🔧 **RL Environments** | Published SQL Repair RL Environment for the open OpenEnv standard (OpenEnv × Scaler Hackathon) |
-| 📦 **Reproducible Projects** | All projects shipped with Docker, clear READMEs, and documented setup for the community |
+<table>
+  <thead>
+    <tr>
+      <th>Area</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td nowrap><b>AI &amp; LLM Tooling</b></td><td nowrap>Building and sharing reusable agent frameworks, RAG pipelines, and prompt utilities</td></tr>
+    <tr><td nowrap><b>Agents</b></td><td nowrap>Open-sourcing autonomous AI agents with tool use, memory, and multi-step reasoning</td></tr>
+    <tr><td nowrap><b>RL Environments</b></td><td nowrap>Published SQL Repair RL Environment — OpenEnv x Scaler Hackathon</td></tr>
+    <tr><td nowrap><b>Reproducible Projects</b></td><td nowrap>All projects shipped with Docker, clear READMEs, and documented community setup</td></tr>
+  </tbody>
+</table>
 
-> 💡 *Working on something in AI/ML open source? Let's collaborate!*
+> *Working on something in AI/ML open source? Let's collaborate!*
 
----
 
-## 🌐 Connect & Collaborate
+## Connect & Collaborate
 
 <div align="center">
 
@@ -133,16 +141,16 @@ I'm passionate about open-source and believe community-driven code accelerates A
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:arjunsreechakram@gmail.com)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/walkman303)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/WALKMAN303)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/WALKMAN303)
 
 </div>
 
----
+
 
 <div align="center">
 
-**🚀 Open to AI/ML roles, open-source collaborations, and consulting opportunities!**
+**Open to AI/ML roles, open-source collaborations, and consulting opportunities!**
 
-*Let's build the future of AI together! 🤖✨*
+*Let's build the future of AI together!*
 
 </div>
